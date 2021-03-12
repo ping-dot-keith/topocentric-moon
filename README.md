@@ -1,9 +1,9 @@
 # Topocentric Moon Monthly Calendar
 
 Compile using...
-
+<pre>
 cc tmoon.c -lm -o tmoon
-
+</pre>
 ## Quick start
 
 <pre>
