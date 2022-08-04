@@ -1,6 +1,6 @@
 # Topocentric Moon Monthly Calendar
 
-Compile using...
+All in one file so no point in having a make file. Compile using...
 <pre>
 cc tmoon.c -lm -o tmoon
 </pre>
