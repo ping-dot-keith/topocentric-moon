@@ -1,9 +1,7 @@
 /*
-Topocentric Moon Monthly Calendar
-
-Compiles using...
-
 cc tmoon.c -lm -o tmoon
+
+Topocentric Moon Monthly Calendar
 
 Mealy Mouthed Disclaimer
 ------------------------
